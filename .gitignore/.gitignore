@@ -1,0 +1,62 @@
+
+<html>
+<head>
+	<style>table,th,td{
+	border:1px solid blue;
+}
+</style>
+<title>my first eb
+</title> 
+</head>
+<body style="background-color: cyan;"><b>
+	<center><embed align="center"width="170"height="156" src ="boss.jpg" />
+		<strong>
+			<h1 style="color: blue;">
+				<u>
+Personal Profile
+</u>
+</h1>
+</strong>
+</center>
+</b>
+<br>
+<table>
+	<tr>
+
+		&nbsp&nbsp&nbsp&nbsp&nbsp<td><h2 style="color:red;"><a href="sad.html"> Personal  information</a></h2></td>
+		<td><h2 style="color:red;"><a href="academic.html"> academic details</a></h2></td>
+		<td><h2 style="color:red;"><a href="hobbies.html"> Hobbies and Interests</a></h2></td>
+		<td><h2 style="color:red;"><a href="Memories.html">   Memories  </a></h2></td>
+		<td><h2 style="color:red;"><a href="Contacts.html">  Contacts  </a></h2></td>
+	</tr>
+</table>
+	</tr>
+	<br>
+	<strong>&nbsp&nbsp&nbsp&nbsp&nbsp NAME &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- Mr. Mayank kumar
+	</strong>
+	<br>
+	<br>
+	<strong
+	>&nbsp&nbsp&nbsp&nbsp&nbsp Mother's name &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- Mrs. Kaushlya Devi
+</strong>
+	<br>
+	<br>
+	<strong>&nbsp&nbsp&nbsp&nbsp&nbsp Father's name &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- Mr. Vijay kumar singh</strong>
+	<br>
+	<br>
+	<strong>&nbsp&nbsp&nbsp&nbsp&nbsp Date of Birth &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- 01/03/1999</strong>
+	<br>
+	<br>
+	<strong>&nbsp&nbsp&nbsp&nbsp&nbsp Blood Group &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- B+</strong>
+	<br>
+	<br>
+	<strong>&nbsp&nbsp&nbsp&nbsp&nbsp Address &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- Kusumpuram colony,west bailey road ,near shiv mandir,pincode-801503</strong>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<h2><marquee behaviour= scroll direction="left" scrollamount="10"><font color="red"> Hug your haters and kill them with your kindness</font></marquee></h2>
+</table>
+</body>
+</html>
